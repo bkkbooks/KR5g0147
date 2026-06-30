@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0147/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0147/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 洞真太上太素玉籙
+  date: '2015-08-29 02:58:35.723847'
+  source:
+    repository: kanripo
+    path: KR5g0147
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0147_000-ZTDZ.yaml, hash: 'sha256:8e1833c2925d5594c24982218b3285c946fb5dd95e3f410d04051cf48fb55c78'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0147_000-ZTDZ.markers.yaml, hash: 'sha256:6f8a2e1dc96fb0b11bb5de917f40130a2a19f064c5d22bcb9a1eafeaacc1d9f5'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0147_SJB_000-330578a
+    span:
+    - body
+    - 0
+    - 1890
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:14f8ad3aad13d104b7438a05e9aca81eb2733e5ee5da31e15f1b4632982bdcfb
